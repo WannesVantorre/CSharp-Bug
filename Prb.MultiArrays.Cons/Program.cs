@@ -7,7 +7,6 @@
         dayHours = new string [6, 2];
         Fill();
         Console.WriteLine($"Op {dayHours[1, 0]} is de winkel open van {dayHours[1, 1]} tot {dayHours[1, 2]}.");
-        //a
     }
 
     private static void Fill()
@@ -20,7 +19,7 @@
         dayHours[5, 0] = "Zaterdag";
         dayHours[6, 0] = "Zondag";
 
-        dayHours[0, 1] = "/";
+        dayHours[0, 1] = "/"; //WHY
         dayHours[1, 1] = "9:00u";
         dayHours[2, 1] = "9:00u";
         dayHours[3, 1] = "9:00u";
