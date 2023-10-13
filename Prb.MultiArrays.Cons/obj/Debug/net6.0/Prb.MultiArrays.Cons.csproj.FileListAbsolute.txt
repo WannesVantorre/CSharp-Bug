@@ -1,0 +1,14 @@
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\bin\Debug\net6.0\Prb.MultiArrays.Cons.exe
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\bin\Debug\net6.0\Prb.MultiArrays.Cons.deps.json
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\bin\Debug\net6.0\Prb.MultiArrays.Cons.runtimeconfig.json
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\bin\Debug\net6.0\Prb.MultiArrays.Cons.dll
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\bin\Debug\net6.0\Prb.MultiArrays.Cons.pdb
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\Prb.MultiArrays.Cons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\Prb.MultiArrays.Cons.AssemblyInfoInputs.cache
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\Prb.MultiArrays.Cons.AssemblyInfo.cs
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\Prb.MultiArrays.Cons.csproj.CoreCompileInputs.cache
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\Prb.MultiArrays.Cons.dll
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\refint\Prb.MultiArrays.Cons.dll
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\Prb.MultiArrays.Cons.pdb
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\Prb.MultiArrays.Cons.genruntimeconfig.cache
+C:\Users\Wanne\source\repos\School\ProgrammingBasics\Prb.MultiArrays.Cons\Prb.MultiArrays.Cons\obj\Debug\net6.0\ref\Prb.MultiArrays.Cons.dll
